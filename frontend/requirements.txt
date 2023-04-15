@@ -10,13 +10,16 @@ idna==3.4
 lxml==4.9.2
 multitasking==0.0.11
 numpy==1.24.2
+packaging==23.1
 pandas==2.0.0
+plotly==5.14.1
 pycparser==2.21
 python-dateutil==2.8.2
 pytz==2023.3
 requests==2.28.2
 six==1.16.0
 soupsieve==2.4
+tenacity==8.2.2
 tzdata==2023.3
 urllib3==1.26.15
 webencodings==0.5.1
